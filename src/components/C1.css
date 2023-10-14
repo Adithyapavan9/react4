@@ -1,0 +1,15 @@
+h1{
+    text-align:center;
+}
+html,body{
+    color:white;
+    background:black;
+    display:flex;
+    justify-content: center;
+}
+table{
+    border:2px solid;
+}
+.h3{
+    border-bottom: 2px solid;
+}
